@@ -16,7 +16,7 @@ public class GugudanMain {
 //		
 //		Gugudan.print(Gugudan.calculate(number), number);
 		
-		System.out.println("단?");
+		System.out.println("단??"); // number,number 
 		Scanner scanner = new Scanner(System.in);
 		String inputValue = scanner.nextLine();
 		String[] splitedValue = inputValue.split(",");
